@@ -1,0 +1,10 @@
+[
+{
+  "modid": "itempricer",
+  "name": "Item Pricer",
+  "description": "GUIA DE COMANDOS:\n/setprice <valor>: Item en mano.\n/calc <formula>: Calcula precios.\n/checkinventory: Ve que items faltan por poner precio.\n/pricereload: Recarga el JSON dentro de la carpeta Config.\n/setinventoryprice <valor> para poner todos los items de tu inventario al mismo precio.",
+  "version": "0.8",
+  "authorList": ["ComboNOBBI"],
+  "credits": "Hecho para ver y hacer precios de items."
+}
+]

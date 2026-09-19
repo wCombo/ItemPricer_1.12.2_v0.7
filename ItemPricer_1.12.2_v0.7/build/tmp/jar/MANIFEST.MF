@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ItemPricer_1.12.2_v0.7
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2026-04-25T15:34:03-0600
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
